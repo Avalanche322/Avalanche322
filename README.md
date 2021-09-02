@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://stackoverflow.com/users/14768051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14768051" height="30" width="40" /></a>
-<a href="https://t.me/Avalanche322" target="blank"><img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" height="40" width="50"/></a>
+<a href="https://t.me/Avalanche322" target="blank"><img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" height="20" width="40"/></a>
 <a href="https://instagram.com/_vodum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vodum_" height="30" width="40" /></a>
 </p>
 
