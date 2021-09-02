@@ -1,4 +1,4 @@
-### Hi there, I’m Vadym 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Vadym
 ## I’m a Boyfriend, Closest friend and WebDeveloper!
 - 🔭 I’m currently working on a nothing
 - 🌱 I’m currently learning everything 🤣
@@ -6,6 +6,6 @@
 - ⚡ Fun fact: I love kvass
 ### Connect with me:
 [<img align=”left” alt=”https://avalanche322.github.io/Personal-Portfolio/” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” alt=”_vodum_ | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align=”left” alt=” _vodum_ | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [website]: https://avalanche322.github.io/Personal-Portfolio/
 [instagram]: https://www.instagram.com/_vodum_/
