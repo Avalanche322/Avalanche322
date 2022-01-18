@@ -27,5 +27,5 @@
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avalanche322&show_icons=true&locale=en&layout=compact" alt="Avalanche322" /></p>
 
-<p styles='margin-top: 10px'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Avalanche322&show_icons=true&locale=en" alt="Avalanche322" /></p>
+<p style='margin-top: 10px'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Avalanche322&show_icons=true&locale=en" alt="Avalanche322" /></p>
 </p>
