@@ -2,7 +2,7 @@
 ## I’m a Boyfriend, Closest friend and WebDeveloper!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Avalanche322&label=Profile%20views&color=0e75b6&style=flat" alt="Avalanche322" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avalanche322](https://github.com/Avalanche322)
 
