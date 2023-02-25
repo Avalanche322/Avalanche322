@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/14768051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14768051" height="30" width="40" /></a>
 <a href="https://t.me/Avalanche322" target="blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="30" width="40"/></a>
 <a href="https://instagram.com/_vodum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vodum_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vadym-skliarov-362402213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLQFm876tR%2Bix4I5OHDWxeg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="14768051" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vadym-skliarov-362402213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLQFm876tR%2Bix4I5OHDWxeg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="14768051" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
