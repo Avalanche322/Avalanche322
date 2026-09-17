@@ -1,22 +1,13 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Vadym
-## I’m a Boyfriend, Closest friend and Software Engineer!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Avalanche322&label=Profile%20views&color=0e75b6&style=flat" alt="Avalanche322" /> </p>
+## About Me
 
-- 🌱 I'm currently looking for a new position
+👋 Hi! I'm **Vadym Skliarov**, a Software Engineer with **5+ years of experience** building scalable and user-focused web applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Avalanche322](https://github.com/Avalanche322)
+💻 I specialize in **JavaScript, TypeScript, React, Next.js, and modern frontend architecture**, with experience building **micro-frontends, complex enterprise applications, and internal platforms from scratch**.
 
-- 📫 How to reach me **vadum322@gmail.com**
+🏗️ I enjoy solving challenging architectural and performance problems and building products that make business workflows faster and more efficient.
 
-- ⚡ Fun fact **I love kvass**
+🤖 Recently, I've been working with **AI-powered applications and automation**, including domain-specific AI agents integrated with internal tools and databases through **MCP**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/Avalanche322" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_vodum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vodum_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vadym-skliarov-362402213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLQFm876tR%2Bix4I5OHDWxeg%3D%3D" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/81143/linkedin.svg" height="30" width="40" />
- </a>
-</p>
+⚙️ My broader experience includes **Node.js, NestJS, PostgreSQL, Redis, GraphQL, REST APIs, testing, CI/CD, and cloud technologies**.
+
+🚀 Currently focused on **frontend architecture, scalable systems, AI engineering, and building great developer experiences**.
