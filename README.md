@@ -6,7 +6,7 @@
 
 🏗️ I enjoy solving challenging architectural and performance problems and building products that make business workflows faster and more efficient.
 
-🤖 Recently, I've been working with **AI-powered applications and automation**, including domain-specific AI agents integrated with internal tools and databases through **MCP**.
+🤖 I've been working with **AI-powered applications and automation**, including domain-specific AI agents integrated with internal tools and databases through **MCP**.
 
 ⚙️ My broader experience includes **Node.js, NestJS, PostgreSQL, Redis, GraphQL, REST APIs, testing, CI/CD, and cloud technologies**.
 
