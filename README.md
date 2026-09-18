@@ -1,13 +1,15 @@
 ## About Me
 
-👋 Hi! I'm **Vadym Skliarov**, a Software Engineer with **5+ years of experience** building scalable and user-focused web applications.
+👋 Hi! I'm **Vadym Skliarov**, a Software Engineer with **5+ years of experience** building scalable web products, business platforms, and AI-powered solutions.
 
-💻 I specialize in **JavaScript, TypeScript, React, Next.js, and modern frontend architecture**, with experience building **micro-frontends, complex enterprise applications, and internal platforms from scratch**.
+🤖 I focus on **AI Engineering**, building AI agents, LLM-powered applications, automation workflows, and **MCP integrations** that connect AI with real business tools, data, and workflows.
 
-🏗️ I enjoy solving challenging architectural and performance problems and building products that make business workflows faster and more efficient.
+🚀 I'm passionate about **Product Engineering** — turning business ideas and requirements into production-ready products, from architecture and system design to implementation and delivery.
 
-🤖 I've been working with **AI-powered applications and automation**, including domain-specific AI agents integrated with internal tools and databases through **MCP**.
+🏗️ I enjoy solving complex engineering problems, designing scalable systems, improving performance, and building solutions that are easy to maintain and evolve.
 
-⚙️ My broader experience includes **Node.js, NestJS, PostgreSQL, Redis, GraphQL, REST APIs, testing, CI/CD, and cloud technologies**.
+💻 My experience spans **Full-Stack Development** with TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis, REST, SSE and WebSockets.
 
-🚀 Currently focused on **frontend architecture, scalable systems, AI engineering, and building great developer experiences**.
+⚛️ I also have a strong **Frontend Engineering** background, with experience in complex enterprise applications, micro-frontends, design systems, and modern web architecture.
+
+🎯 Currently exploring the intersection of **AI, product engineering, and scalable software architecture**.
