@@ -13,3 +13,5 @@
 ⚛️ I also have a strong **Frontend Engineering** background, with experience in complex enterprise applications, micro-frontends, design systems, and modern web architecture.
 
 🎯 Currently exploring the intersection of **AI, product engineering, and scalable software architecture**.
+
+Today: 22-09-2026
